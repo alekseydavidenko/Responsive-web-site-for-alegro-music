@@ -723,6 +723,14 @@ footer__tag {
         width: 190px;
     }
 }
+@media screen and (max-width: 379px) {
+    .bullet__conten-caption {
+        margin-bottom: 30px;
+    }   
+    .bullet__conten-description {
+        width: 200px;
+    }
+}
 @media screen and (max-width: 339px) {
     .container {
         width: 300px;
@@ -747,13 +755,7 @@ footer__tag {
     }
     .testimonials__nav-item {
         margin-top: 15px
-    }
-    .bullet__conten-caption {
-        margin-bottom: 30px;
-    }
-    .bullet__conten-description {
-        width: 200px;
-    }
+    }     
     .layer__background {
         width: 0;
     }
