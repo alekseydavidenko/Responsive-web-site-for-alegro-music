@@ -634,6 +634,9 @@ footer__tag {
     .about-us {
         width: 400px;
     }
+    .line {
+        width: 280px; 
+    }
     .about-us__caption {
         font-size: 18px;
     }
@@ -726,6 +729,9 @@ footer__tag {
     }
     .about-us {
         width: 300px;
+    }
+    .line {
+        width: 240px; 
     }
     .browser__description {
         width: 300px;
